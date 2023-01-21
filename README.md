@@ -5,3 +5,4 @@ Hi! I'm Rebecca or Bex. I'm just a regular person who likes to code in my free t
 I don't have any major projects right now, but I'll eventually post some stuff on [@wintervine](https://github.com/wintervine), my engineering company page.
 ### Connect with me!
 [Twitter](https://twitter.com/@subbybex)
+https://github-contribution-graph.ez4o.com/?username=bexplayer&last_n_days=365&img_url=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcSGPx3mpwzOR84gxx2l8ABVQkvM7wi9ozc_0bE41LncgA%26s
